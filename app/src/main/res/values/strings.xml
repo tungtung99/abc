@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="website">facebook.com</string>
+    <string name="home">Home</string>
+    <string name="contact">Contact Us</string>
+    <string name="rate">Rate this app</string>
+    <string name="feedback">Feedback</string>
+    <string name="share">Share</string>
+    <string name="privacy">Privacy</string>
+</resources>
